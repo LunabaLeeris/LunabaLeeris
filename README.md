@@ -1,12 +1,14 @@
 ## Hi there 👋
-I'm Christian Lee Lunaba. BS-CS Specializing ing machine learning. 
+I'm Christian Lee Lunaba. BS-CS Specializing in machine learning. 
 
 I am knowledgeable in multiple areas, especially Web/App development, Database management, Web Scraping, Ui/Ux and Machine Learning. 
 
 I also have a deep interest in Mathematics and Music! 
 
 🔭 I’m currently working on Implementing Support Vector Machines using SMO ! 
+
 🌱 I’m currently exploring Machine Learning. Specifically I'm following the online course provided by standford (CS229) at https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10
+
 👯 My goal is to become one of the best ML engineer/Data analyst in the Philippines, or even internationally. 
 
 <!--
