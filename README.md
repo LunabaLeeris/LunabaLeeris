@@ -5,11 +5,17 @@
 </div>
 <br/>
 
+<div align="center">
+  <em>"Shoot for the skies; The stars are waiting"</em>
+</div>
+<br/>
+
 > I am a third-year Computer Science student specializing in Machine Learning. 
 >
 > I have competed and won multiple school-to-school events in mathematics up to the national level for over 4 years, and have been actively competing in hackathons and competitive programming tournaments for almost 2 years. 
 >
 > I am highly knowledgeable in multiple fields, specifically Data Science and Machine Learning. I also have practical experience in areas such as Web/Game Development, Data Scraping, UI/UX, and Database Management.
+
 
 ### 🛠️ Tech Stack
 
