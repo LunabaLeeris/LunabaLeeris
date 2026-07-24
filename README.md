@@ -24,10 +24,14 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Pygame](https://img.shields.io/badge/pygame-%23FFE873.svg?style=for-the-badge&logo=python&logoColor=black)
+![Kivy](https://img.shields.io/badge/kivy-%232D3F50.svg?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend & Frameworks:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,8 +39,15 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**ML, Tools & Scripting:**  
+**Scraping & Automation:**
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4.svg?style=for-the-badge&logo=puppeteer&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge&logo=python&logoColor=white)
+
+**ML, Tools & Deployment:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-%231F1E37.svg?style=for-the-badge&logo=ngrok&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![NSIS](https://img.shields.io/badge/NSIS-gray?style=for-the-badge)
 
