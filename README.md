@@ -1,28 +1,97 @@
-## Hi there 👋
-I'm **Christian Lee Lunaba**. BS-CS Specializing in machine learning. 
+<h1 align="center">Hi there, I'm Lee! 👋</h1>
 
-I am knowledgeable in multiple areas, especially Web/App development, Database management, Web Scraping, Ui/Ux and Machine Learning. 
+<div align="center">
+  <strong>Computer Science | Machine Learning | Full-Stack Developer</strong>
+</div>
+<br/>
 
-I also have a deep interest in Mathematics and Music! 
+> I am a third-year Computer Science student specializing in Machine Learning. 
+>
+> I have competed and won multiple school-to-school events in mathematics up to the national level for over 4 years, and have been actively competing in hackathons and competitive programming tournaments for almost 2 years. 
+>
+> I am highly knowledgeable in multiple fields, specifically Data Science and Machine Learning. I also have practical experience in areas such as Web/Game Development, Data Scraping, UI/UX, and Database Management.
 
-## ✨ Shoot for the sky; The stars are waiting! ✨
-🔭 I’m currently studying techniques for visualizing high dimensional data to lower dimension!
+### 🛠️ Tech Stack
 
-🌱 I’m currently exploring Machine Learning. Specifically I'm following the online course provided by standford (CS229) at https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10
+**Frontend & Desktop:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaFX](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-👯 My goal is to become one of the best ML engineer/Data analyst in the Philippines, or even internationally. 
+**Backend & Frameworks:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-<!--
-**LunabaLeeris/LunabaLeeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Databases:**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Here are some ideas to get you started:
+**ML, Tools & Scripting:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![NSIS](https://img.shields.io/badge/NSIS-gray?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Design Tools:**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+---
+
+### 🚀 Ongoing Projects
+*   **[Cleo](#)** - A companion that helps you quit bad behaviors and practice good behaviors while you're using your computer. 
+*   **[Pickleball](https://www.csrpickleave.com/)** - A website for pickleball scheduling in Makati with 200 average daily visitors.
+*   **[Trommel](https://www.hextract.tech/)** - An annotation service for the Philippines. 
+
+### 💻 Past Projects
+*   🏥 **[health-query-app](https://health-query-app.vercel.app)** - A platform where users can post health questions and medical professionals can answer. Users can schedule online consultations, and professionals can rank higher in the algorithm by answering questions. 
+*   📜 **[certificate-generator](https://github.com/LunabaLeeris/certificate-generator)** - A Python tool used to generate club certificates. 300x faster than open-source alternatives.
+*   🦷 **[dentistry](https://github.com/LunabaLeeris/dentistry)** - A system proposal to aid a school’s Dentistry Program in recording medical procedures (Node.js, JS, Bootstrap, MySQL). 
+*   🎓 **[pavement](https://github.com/LunabaLeeris/pavement-app)** - A proposed Microsoft application for training aspiring employees through courses and programs. Features trainee certifications and trainer course creation (Next.js 15, React, React Query). 
+*   🔐 **[Privy](https://github.com/LunabaLeeris/Privy)** - A simple SSH program allowing communication between different endpoints using C++ and the Windows socketing library. 
+*   ✈️ **[Gabay](https://github.com/LunabaLeeris/Gabay)** - A flight navigator simulation (Java Swing). Provides paths, costs, durations, and distances for chosen travel destinations. 
+*   🛒 **[POS](https://github.com/LunabaLeeris/PosSystem)** - A Java E-commerce POS application.
+*   ♟️ **[EnPassant](https://github.com/LunabaLeeris/EnPassant)** - A typing game where you help a pawn escape hungry chess pieces by typing words quickly.
+*   📝 **[QuizIt](https://github.com/LunabaLeeris/QuizIt)** - A Java-Swing quiz maker application. 
+*   📰 **[Current](https://github.com/LunabaLeeris/Current)** - A Python-based web scraper that pulls and displays news content from various sites into a single app.
+*   🌧️ **[Geomon](https://github.com/LunabaLeeris/Geomon)** - A 3D game where you collect hidden ancient debris to restore the sun before the island sinks!
+
+### 🧠 Machine Learning Projects
+*   📊 **[SMO-case-study](https://github.com/LunabaLeeris/SMOCaseStudy)** - A Case Study on the implementation and effectiveness of Sequential Minimal Optimization for Support Vector Machines.
+*   🐦 **[Tweet-sentiment-analysis](https://github.com/LunabaLeeris/TweetSentimentAnalysis)** - A machine learning model predicting tweet emotions (joy, love, anger, surprise) using one-vs-one SMO.
+*   🔢 **[Digit-Classification](https://github.com/LunabaLeeris/DigitClassification)** - A Machine Learning Model implemented using Soft Max Regression that predicts a digit from 0 - 9.
+*   ⏱️ **[Union-find-case-study](https://github.com/LunabaLeeris/UnionFindCaseStudy)** - A research study on the time complexity of Union Find using C++.
+
+---
+
+### 🌟 Leadership
+*   **Chief Technology Officer** - Computer Science Society NU-Manila (2024-2025)
+*   **Skill Builder Head** - AWS-Lagarda (2025)
+
+---
+
+### 📊 Coding Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunabaLeeris&theme=dark&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://leetcard.jacoblin.cool/leeris?theme=dark&font=baloo&ext=activity" alt="My Leetcode Stats" height="195" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunabaLeeris&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" width="80%" />
+</div>
+
+---
+
+### 📫 Connect With Me
+<div align="center">
+  <a href="mailto:lunabachristianlee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/christianlee-lunaba-72229025b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/LunabaLeeris">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
