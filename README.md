@@ -95,7 +95,7 @@
 ### 📊 Coding Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunabaLeeris&theme=dark&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunabaLeeris&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=LunabaLeeris&theme=dark&hide_border=true" alt="GitHub Stats" height="195" />
   <img src="https://leetcard.jacoblin.cool/leeris?theme=dark&font=baloo&ext=activity" alt="My Leetcode Stats" height="195" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunabaLeeris&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" width="80%" />
