@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-> I am a third-year Computer Science student specializing in Machine Learning. 
+> I graduated with Bachelors in Science Major in Computer Science with Specialization in Machine Learning (Magna Cum Laude)
 >
 > I have competed and won multiple school-to-school events in mathematics up to the national level for over 4 years, and have been actively competing in hackathons and competitive programming tournaments for almost 2 years. 
 >
